@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Deco Technologies Releases Nexus Repository</name>
-	      <url>http://18.222.192.101:8081/repository/maven-web-app-RELEASE/</url>
+	      <url>http://18.222.198.231:8081/repository/java-web-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Deco Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.222.192.101:8081/repository/maven-web-app-SNAPSHOT/</url>
+	      <url>http://18.222.198.231:8081/repository/java-web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
